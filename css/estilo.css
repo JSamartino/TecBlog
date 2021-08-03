@@ -20,6 +20,11 @@
 		color:#f7b600;
 
 	}
+	h3{
+		color:#565656;
+		background: #CCC;
+		padding: 5px;
+	}
 
 	#area-cabeçalho{
 		background-color:#f7b600;
@@ -44,6 +49,7 @@
 	}
 	#postagens{
 		width: 660px;
+		float:left;
 
 
 	}
@@ -52,11 +58,10 @@
 		float:right;
 
 
-	}
-	#area-lateral , #postagens {
-		background: orange;
+
 
 	}
+	
 	#rodape{
 		clear: both;
 		text-align: center;
@@ -111,3 +116,16 @@
 		margin-bottom: 10px;
 		display: block;
 	}
+	.conteudo-lateral{
+		background: white;
+		padding: 10px;
+		margin-bottom: 20px;
+		
+
+	}
+	.texto-lateral{
+		padding: : 5px;
+		font-size: 0.8em;
+		border-bottom: 1px dotted #CCC;
+		
+	}	
